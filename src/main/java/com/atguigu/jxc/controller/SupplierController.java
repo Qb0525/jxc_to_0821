@@ -58,7 +58,7 @@ public class SupplierController {
     }
 
     /**
-     * 分支1.0.1测试
+     * test
      * @param ids 供应商ids字符串，用逗号分隔
      * @return
      */
